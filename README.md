@@ -9,4 +9,4 @@ Reto del curso de CSS Grid Layout
 
 ## Resultado y enlace directo.
 
-![](imagenes/platzi-movies.png)
+![](images/platzi-movies.png)
