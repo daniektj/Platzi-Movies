@@ -8,5 +8,6 @@ Reto del curso de CSS Grid Layout
 * Aún esta en proceso los media query para mejorar **responsive design.**
 
 ## Resultado y enlace directo.
+https://daniektj.github.io/Platzi-Movies/
 
 ![](images/platzi-movies.png)
