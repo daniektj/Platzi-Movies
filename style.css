@@ -238,8 +238,8 @@ input:focus {
     }
 
     .main{
-        height: 100%;
-        max-height: calc(var(--vh, 1vh) * 100);
+        height: calc(100vh - 200px);
+        max-height: 100%;
         box-sizing: border-box;            
     }
 
