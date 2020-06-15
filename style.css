@@ -8,6 +8,8 @@
 }
 
 body{
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
     display: grid;
     grid-template-columns: 150px 1fr;
     grid-template-rows: 100px 1fr;
@@ -15,6 +17,10 @@ body{
 
     grid-template-areas: "header header"
                         "side main";   
+}
+
+html {
+  height: -webkit-fill-available;
 }
 
 /* ---------//// HEADER ////--------- */
