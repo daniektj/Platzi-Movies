@@ -244,8 +244,10 @@ input:focus {
     }
 
     .main{
+        min-height: 100vh;
+        min-height: -webkit-fill-available;
         /*height: calc(100vh - 200px);*/
-        height: calc(100 * var(--vh));
+        /*height: calc(100 * var(--vh));*/
         box-sizing: border-box;            
     }
 
